@@ -85,7 +85,3 @@ http://localhost:8989/bank-api/h2-console/
 2. Browse to <project-root>/src/test/resources to find sample requests to add customer and accounts.
 
 
-## Authors
-
-* **Shyam Bathina**
-
